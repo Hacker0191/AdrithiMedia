@@ -2414,10 +2414,17 @@ img{
 .services-heading1{
 	font-family: Moglan; 
 	font-size: 35px;
+	letter-spacing: 4px;
 }
 
 @media (max-width: 769px){
 	.services-heading1{
 		font-size: 30px;
 	}
+}
+
+.cta-btton{
+	background-color: #FFFDD0; 
+	color: black;   
+	font-family: 'Montserrat', sans-serif;
 }
