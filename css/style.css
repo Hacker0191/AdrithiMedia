@@ -877,7 +877,7 @@ ol {
 	font-size: 15px;
 	color: #c4c4c4;
 	padding-left: 20px;
-	border: 1px solid #009603;
+	border: 1px solid #0074cc;
 	background: transparent;
 }
 
@@ -904,7 +904,7 @@ ol {
 .fs-widget .fw-subscribe form button {
 	font-size: 18px;
 	color: #ffffff;
-	background: #009603;
+	background: #0074cc;
 	height: 50px;
 	width: 50px;
 	border: none;
@@ -1996,14 +1996,6 @@ section#counter-stats {
 
 /*/ end count stats /*/
 
-
-.polka-bg{
-  background: radial-gradient(#610C63 10%, transparent 10%), radial-gradient(#EE81B3 10%,transparent 10%),
-  radial-gradient(#37E2D5 10%, transparent 10%) #fffee1;;
-background-size: 100px 100px;
-background-position: 0 0, 25px 25px, 50px 50px;
-}
-
 img{
 	cursor: pointer;
 }
@@ -2403,4 +2395,29 @@ img{
 	height: auto;
 	display: block;
 	margin: 0 auto; /* Center image horizontally */
+}
+
+.main-heading-moglan{
+	font-family: Buljirya;
+	font-weight: 100; 
+	font-size: 25px; 
+	letter-spacing: 4px; 
+	line-height: 50px;
+}
+
+@media (min-width: 769px){
+	.main-heading-moglan{
+		font-size: 20px; 
+	}
+}
+
+.services-heading1{
+	font-family: Moglan; 
+	font-size: 40px;
+}
+
+@media (min-width: 769px){
+	.services-heading1{
+		font-size: 30px;
+	}
 }
