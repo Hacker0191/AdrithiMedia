@@ -2400,23 +2400,23 @@ img{
 .main-heading-moglan{
 	font-family: Buljirya;
 	font-weight: 100; 
-	font-size: 25px; 
+	font-size: 20px; 
 	letter-spacing: 4px; 
 	line-height: 50px;
 }
 
-@media (min-width: 769px){
+@media (max-width: 769px){
 	.main-heading-moglan{
-		font-size: 20px; 
+		font-size: 15px; 
 	}
 }
 
 .services-heading1{
 	font-family: Moglan; 
-	font-size: 40px;
+	font-size: 35px;
 }
 
-@media (min-width: 769px){
+@media (max-width: 769px){
 	.services-heading1{
 		font-size: 30px;
 	}
