@@ -348,7 +348,7 @@ ol {
 	bottom: 0;
 	height: 3px;
 	width: 100%;
-	background: #009603;
+	background: #ADD8E6;
 	content: "";
 	opacity: 0;
 	-webkit-transition: all 0.3s;
@@ -391,7 +391,7 @@ ol {
 	height: 50px;
 	width: 50px;
 	color: #ffffff;
-	background: #009603;
+	background: #ADD8E6;
 	line-height: 50px;
 	text-align: center;
 	cursor: pointer;
@@ -593,7 +593,7 @@ ol {
 
 .cs-item .cs-text span {
 	font-size: 17px;
-	color: #009603;
+	color:#ADD8E6;
 	display: block;
 	opacity: 0;
 	-webkit-transition: all 0.3s;
@@ -1627,12 +1627,12 @@ ol {
 	}
 	.slicknav_nav a:hover {
 		border-radius: 0;
-		background: #009603;
+		background: #ADD8E6;
 		color: #fff;
 	}
 	.slicknav_nav .slicknav_row:hover {
 		border-radius: 0;
-		background: #009603;
+		background: #ADD8E6;
 		color: #fff;
 	}
 	.slicknav_nav .slicknav_row,
@@ -1761,12 +1761,12 @@ ol {
 	}
 	.slicknav_nav a:hover {
 		border-radius: 0;
-		background: #009603;
+		background: #ADD8E6;
 		color: #fff;
 	}
 	.slicknav_nav .slicknav_row:hover {
 		border-radius: 0;
-		background: #009603;
+		background: #ADD8E6;
 		color: #fff;
 	}
 	.slicknav_nav .slicknav_row,
@@ -1880,12 +1880,12 @@ ol {
 	}
 	.slicknav_nav a:hover {
 		border-radius: 0;
-		background: #009603;
+		background: #ADD8E6;
 		color: #fff;
 	}
 	.slicknav_nav .slicknav_row:hover {
 		border-radius: 0;
-		background: #009603;
+		background: #ADD8E6;
 		color: #fff;
 	}
 	.slicknav_nav .slicknav_row,
@@ -2300,10 +2300,8 @@ margin-bottom: 15px;
 
 
   .service-box {
-	background-color:#fffee1; /* Cream background color */
+	background-color:#F5F5F5; /* Cream background color */
 	padding: 20px; /* Add padding for spacing */
-	border-radius: 10px; /* Add rounded corners */
-	box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); /* Add a subtle shadow */
 }
 
 /* CSS */
@@ -2424,7 +2422,7 @@ img{
 }
 
 .cta-btton{
-	background-color: #FFFDD0; 
+	background-color: #ADD8E6; 
 	color: black;   
 	font-family: 'Montserrat', sans-serif;
 }
